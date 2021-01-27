@@ -1,6 +1,10 @@
 # travelgram
 
-A new Flutter project.
+A dummy travel app landing screen developed using flutter and firebase.
+
+## Important note
+
+This app was created using firebase so this won't work if you clone this repository and try to run this application because i have not committed the google-services.json file
 
 ## Getting Started
 
